@@ -1,0 +1,25 @@
+---
+title: "Radio Usage"
+---
+
+## BMRC Radio Conventions
+
+Hey you, it's me format 
+
+Dispatch, this is MRC 1...
+
+MRC 1, dispatch
+Go for MRC 1
+MRC 1, please respond to a report of....
+Copy that, en route to...
+
+Dispatch, MRC 1 on scene
+
+Dispatch, MRC 1
+Go for dispatch
+We have an X year old Y with a chief complaint of Z, transporting/T&R/refusal/etc.
+Copy that MRC 1...
+
+Dispatch, MRC 1 clear of call, we are available
+
+Dispatch, MRC 1, back and available at post

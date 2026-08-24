@@ -1,0 +1,59 @@
+project:
+  type: website
+
+website:
+  favicon: assets/favicon.ico
+  page-footer: 
+    center:
+      - text: License
+        href: license.qmd
+      - text: GitHub
+        href: "https://github.com/berkeleymrc/fall-2026"
+    background: "dark"
+  sidebar:
+    style: "docked"
+    title: "INTEGBI 198 <br><small>Fall 2026</small>"
+    logo: assets/new_logo.png
+    logo-alt: "BMRC logo"
+    tools:
+      - icon: github
+        href: https://github.com/berkeleymrc/fall-2026
+    contents:
+      - href: index.qmd
+        text: Home / Schedule
+      - href: syllabus.qmd
+        text: Syllabus
+      - section: "Medical Operations"
+        contents:
+          - href: medopsevents.qmd
+            text: Event Signup
+          - href: pcrs.qmd
+            text: Patient Care Reports
+      - section: "Public Health"
+        contents:
+          - href: publichealthinfo.qmd
+            text: Information
+      - href: staff.qmd
+        text: Staff
+      - section: "Other"
+        contents:
+          - href: faqs.qmd
+            text: FAQs
+          - href: work.qmd
+            text: Work Opportunities
+          - href: continuingeducation.qmd
+            text: Continuing Education
+          - href: rockmed.qmd
+            text: Rock Medicine
+          - href: license.qmd
+            text: License
+
+format:
+  html:
+    theme: lumen
+    fontsize: 1em
+    css: assets/styles.css
+    toc: true
+    include-after-body: _includes/google-analytics.html
+
+

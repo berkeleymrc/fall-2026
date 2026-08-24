@@ -1,0 +1,63 @@
+---
+title: "BMRC PCR Guide"
+---
+
+## When To Fill Out 
+
+For any patient for whom you perform a medical assessment or intervention beyond simple First Aid (i.e. anything beyond handing out a band-aid or ice pack).
+
+## When Not To?
+
+Simple First Aid or comfort items requested by patients (i.e. band-aids, ice packs) who refuse and/or do not require assessment.
+
+## Key Takeaways / Common Mistakes
+
+- Demographics information is required for every patient. Try your best to acquire it.  
+  _Pro Tip: Ask for their ID!_
+- Chief complaint should be in quotes (e.g., “I drank too much,” not EtOH). If unresponsive or incomprehensible, document as:  
+  > “None (Unresponsive/Incomprehensible)”
+- If A+O status is less than 4, document exactly what the patient could not report or what led you to conclude the patient was altered.  
+  _E.g.: “Unaware of current location/city”_
+- In systems assessment, document both signs and symptoms and pertinent negatives.  
+  _E.g.: Cardiovascular: “Pedal edema.” Neurological: “CSMs in all extremities intact.”_
+- Know the difference between WNL and NA:  
+  - Use WNL (Within Normal Limits) if the system is relevant and you have assessed it to be normal.  
+  - Use NA (Not Applicable/Assessed) if the system is irrelevant to the call.
+- For allergies, medications, and past medical history:  
+  If none reported, do not leave blank. Write:  
+  > “None reported/Pt denies”
+- If you make a mistake and would like to redact information, never scratch it out or obstruct it
+  - Draw a horizontal line through it and write the correction next to the line if applicable
+- Do not use acronyms like 'SAMPLE' or 'OPQRST' in your narrative. You can perform assessments using these mnemonics to remember what to look for, but the narrative should only contain your actual findings.
+
+## Narrative Structure
+
+All PCRs should follow this general format:
+
+> MRC [1] [dispatched/flagged down] to/for [“X YOM/F”] @ [Location]
+> AOS (Arrived on Scene) to find [X YOM/F]… initial impressions (positioning, A+O status, ABCs, skin signs, etc.)… with Chief Complaint: [“____”]  
+> Upon assessment, document all relevant signs, symptoms, assessment responses, and pertinent negatives. Skip items that are already clearly documented elsewhere.  
+> _If applicable_: ALS requested via [UCPD emergency line/911/radio] @ [time]. Mention immediately if done on arrival.  
+> Transferred care to [BER (Berkeley Fire) Engine/Medic #] or “Pt released after treatment and refused additional service.”  
+> _If releasing pt_: include rationale for safe release without ALS.  
+> _If moving pt_: “Pt securely loaded onto [gurney/stair chair] and moved to [destination] without incident.”
+
+## Signatures
+
+- **Patient Signature**: MUST be obtained, or document why not obtained.  
+  _If minor/ALOC/AMS_: “Pt unable to sign (reason).” A guardian or chaperone may sign if legally permitted.
+- **Provider Signature**: All providers involved in care must sign and approve the PCR.
+
+## Acronyms
+
+Please use only approved abbreviations and acronyms.  
+See the full list here: [ACPHD Approved Acronyms List (PDF)](files/acphd-approved-acronyms.pdf)
+
+## Sample PCR Examples
+
+Use the following examples as reference for appropriate narrative structure and documentation style:
+
+- [Example PCR 1 (PDF)](files/preeclampsia-pcr.pdf)
+- [Example PCR 2 (PDF)](files/dka-pcr.pdf)
+- [Example PCR 3 (PDF)](files/sepsis-pcr.pdf)
+

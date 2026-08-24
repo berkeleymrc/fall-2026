@@ -1,0 +1,59 @@
+```{=html}
+<% for (const item of items) { %>
+
+  <h4>Week <%- item.week %></h4>
+
+  <table class="table" data-quarto-disable-processing="true">
+    <tbody>
+      <% for (const day of item.days) { %>
+        <% for (let i = 0; i < day.items.length; i++) { 
+             const it = day.items[i];
+             const labelClass = 'label-' + String(it.type || '').replace(/\s+/g, '-');
+             // Name cell link priority: canvas_quiz_url (for Quiz) -> href -> plain text
+             const nameHref = (
+               it.canvas_quiz_url && 
+               ['quiz', 'reflection'].includes(String(it.type || '').toLowerCase())
+             ) 
+               ? it.canvas_quiz_url
+               : (it.href ? it.href : null);
+
+        %>
+          <tr>
+            <% if (i === 0) { %>
+              <th scope="row" rowspan="<%- day.items.length %>"><%- day.date %></th>
+            <% } %>
+
+            <!-- MAIN NAME CELL -->
+            <% if (nameHref) { %>
+              <td>
+                <strong class="label <%- labelClass %>"><%- it.type %></strong>
+                <a href="<%- nameHref %>" target="_blank"><%- it.name %></a>
+              </td>
+            <% } else { %>
+              <td>
+                <strong class="label <%- labelClass %>"><%- it.type %></strong>
+                <%- it.name %>
+              </td>
+            <% } %>
+
+            <!-- AUXIL COLUMN 1: link only if auxil.href exists -->
+            <% if (it.auxil && it.auxil.href) { %>
+              <td><a href="<%- it.auxil.href %>" target="_blank"><%- it.auxil.id || '' %></a></td>
+            <% } else { %>
+              <td><%- it.auxil ? (it.auxil.id || it.auxil) : '' %></td>
+            <% } %>
+
+            <!-- AUXIL COLUMN 2: link only if auxil2.href exists -->
+            <% if (it.auxil2 && it.auxil2.href) { %>
+              <td><a href="<%- it.auxil2.href %>" target="_blank"><%- it.auxil2.id || '' %></a></td>
+            <% } else { %>
+              <td><%- it.auxil2 ? (it.auxil2.id || it.auxil2) : '' %></td>
+            <% } %>
+          </tr>
+        <% } %>
+      <% } %>
+    </tbody>
+  </table>
+
+<% } %>
+```

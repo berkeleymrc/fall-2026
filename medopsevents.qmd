@@ -1,0 +1,21 @@
+---
+title: "MedOps Event Calendar"
+page-layout: article
+toc: false
+---
+
+Sign up by commenting your name on a shift [here](https://docs.google.com/spreadsheets/d/1ZJDVw3wToMUxkadhojNSRgP_Z3Q27750Q8lPvPOyfQQ/edit?usp=drivesdk). Click an event to view details or add it to your own Google Calendar. Time frames shown on the google calendar may not be accurate, always double check with the spreadsheet. Events with undisclosed times are not included in the calendar.
+
+```{=html}
+<div class="calendar-embed large">
+  <iframe
+    src="https://calendar.google.com/calendar/embed?src=c_39024d4a6fcdd79dd21f17a9b3d9368b00489d102b07c044dba49d643d7aee0e%40group.calendar.google.com&ctz=America%2FLos_Angeles"
+    style="border:0"
+    frameborder="0"
+    height = "8000"
+    width = "8000"
+    scrolling="no"
+    allowfullscreen
+    aria-label="MedOps Event Signup Calendar">
+  </iframe>
+</div>

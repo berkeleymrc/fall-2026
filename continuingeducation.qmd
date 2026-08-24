@@ -1,0 +1,60 @@
+---
+title: "Continuing Education Courses"
+---
+
+## EMT Recertification in California
+
+In California, EMTs must renew their certification every 2 years with at least 24 hours of continuing education, 50% of which must count as instructor-based.
+
+- Total hour requirements in California
+  - Valid and current certification license, or one lapsed less than 6 months: 24 course hours
+  - Lapsed 6 months to 1 year: 36 course hours
+  - Lapsed over 1 year: 48 course hours
+- CAPCE Approval
+  - Most CE courses must be accredited by the Commission on Accreditation for Prehospital Continuing Education (CAPCE) in order to count for NREMT and California renewal.  
+- Types of CE
+  - CE may be instructor-led (live, synchronous) or distributive/online (asynchronous). 
+- NREMT Requirements 
+  - If you want to continue to be nationally registered, you must also submit your CE hours through NREMT’s platform. Many providers automatically report CE to NREMT, while others may require you to upload completion certificates manually.  
+
+Don’t forget that standard certifications like BLS CPR renewal or courses like Bio 1A can also count toward CE hours.
+
+
+
+## Free CE Courses
+
+| <span style="display: inline-block; width:200px">Provider</span> | <span style="display: inline-block; width:350px">Summary</span> | Verified |
+|----------|---------|----------|
+| [FEMA IS-100: Introduction to ICS](https://www.firstrespondertraining.gov/frts/npccatalog?id=2304) | 2 CEs (Operations) | Mar 2025 |
+| [FEMA IS-200: ICS for Single Resources](https://www.firstrespondertraining.gov/frts/npccatalog?id=2322) | 4 CEs (Operations) | Mar 2025 |
+| [FEMA IS-700: National Incident Management System](https://www.firstrespondertraining.gov/frts/npccatalog?id=2404) | 4 CEs (Operations) | Mar 2025 |
+| [FEMA IS-800: National Response Framework](https://www.firstrespondertraining.gov/frts/npccatalog?id=2413) | 3 CEs (Operations) | Apr 2025 |
+| [NorCal EMS](https://norcalems.learnworlds.com/) | A few free courses | Sep 2025 |
+| [FOAMfrat](https://www.foamfrat.com/paramedic-refresher-course) | Requires a free account; several free modules | Sep 2025 |
+| [Rock Medicine](https://sites.google.com/view/rock-medicine-new/education?authuser=0&pli=1) | Series of free CEs for Rock Med Volunteers | Sep 2025 |
+| [Guardian](https://guardian-you.com/) | Large library, podcast-style lectures with quizzes | Mar 2025 |
+| [EMS1 Academy (Lexipol) > Zoll](https://zoll.ems1academy.com/) | 4.5 hours (Operations) | Mar 2025 |
+| [EMS1 Academy (Lexipol) > OLT](https://olt.ems1academy.com/) | Large list of free courses | Mar 2025 |
+| [EMS1 Academy (Lexipol) > BoundTree University](https://btu.ems1academy.com/) | Large list of free courses | Mar 2025 |
+| [BoundTree University (FOAMfrat)](https://www.boundtree.com/education) | 5 free courses. Paid subscription available | Mar 2025 |
+| [Prodigy EMS](https://www.prodigyems.com/) | Mix of free and paid | Mar 2025 |
+
+
+## Paid CE Options
+
+| <span style="display: inline-block; width:200px">Provider</span> | <span style="display: inline-block; width:350px">Summary</span> | Verified |
+|----------|---------|----------|
+| [American CME](https://americancme.org/capce-courses/) | $5/course or $96–106 bundles. Free courses not CAPCE-eligible in most states. | Mar 2025 |
+| [MedicEd](https://mediced.com/index.asp) | $72/year | Mar 2025 |
+| [EMT-CE](https://emt-ce.com/) | $199 for 20 hours live + unlimited self-paced; $69 for online only | Mar 2025 |
+| [Recert.com](https://www.recert.com/) | $61.95/year or $7/course | Mar 2025 |
+| [EMS Connect](https://www.emsconnect.org/about/individuals) | $7.50/month | Mar 2025 |
+
+---
+
+## Notes
+- Verify whether courses are CAPCE-accredited before relying on them for California renewal.  
+- Many providers automatically submit CE hours to NREMT, but California recertification may still require uploading certificates to your local EMS agency.  
+- Keep track of your hours with a personal log to avoid surprises at renewal time.  
+- The window to submit your reapplication opens 6 months before your license expires.
+- Try to submit your reapplication within 60 days of expiration to ensure that you maintain your license continuously.

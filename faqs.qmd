@@ -1,0 +1,60 @@
+---
+title: "Frequently Asked Questions"
+---
+
+__I am not currently an EMT. Can I still enroll in the course or join BMRC?__ <br>
+Yes, however the course is mandatory for all new BMRC members to take, and we have limited space. This means that first priority for enrollment codes goes to new members, then general members, then other students at UC Berkeley. It is uncommon for spots to remain after codes are released to BMRC members. To become a BMRC member, you must be Nationally Registered Emergency Medical Technician with California State licensure (grey card).
+
+That said, non-EMTs are welcome and encouraged to attend our public presentations from 7–8 PM on Mondays and Tuesdays. These are a great way to learn more about what it’s like to be an EMT and a BMRC member. For details, visit our Instagram: [@mrcberkeley](https://www.instagram.com/mrcberkeley/).
+
+<br>
+__Will there be live webcasts or recordings of lectures?__ <br>
+No. Lectures are in-person only and will not be streamed or recorded. Attendance is required.
+
+<br>
+__Do you have a COVID or illness policy?__ <br>
+Yes. If you're feeling unwell or have been recently exposed to illness, please stay home. If you anticipate missing a class due to illness, email the course administrators at `admininstration@berkeleymrc.org` to inform them.
+
+<br>
+__Are time conflicts allowed with the course?__ <br>
+No. If you will consistently miss a portion of training (e.g., due to another class), you should not enroll.
+
+<br>
+__What is the uniform policy for trainings?__ <br>
+All members are expected to attend training in half uniform (BMRC T-shirt or quarter-zip, EMT pants, and boots).
+
+<br>
+__How do I sign up for MedOps events?__ <br>
+Sign up by commenting your name in the appropriate cell on the [event sign-up Google Sheet](https://docs.google.com/spreadsheets/u/5/d/12O9aSQ8l65SdB1fVUv1Ors-MUf5wUNarZhkPG3UpIE8/edit?gid=1100467556#gid=1100467556). You can also view the calendar of posted events and openings on the [MedOps Events page](medopsevents.html).
+
+<br>
+__How do I become an FTO?__ <br>
+FTO applications open a few weeks before each semester and are available only to current members who are not on probation. You cannot be an FTO during your new member semester.
+
+<br>
+__What’s the difference between an FTO and an FTO intern?__ <br>
+Both FTOs and FTO interns assist with training. However, FTOs lead teams at events and are responsible for patient care, communication with venue staff and EMS resources, and documentation. Interns support FTOs and gain experience for future leadership.
+
+<br>
+__Where can I find example PCRs?__ <br>
+Example PCRs are located at the bottom of the [PCRs page](pcrs.html).
+
+<br>
+__How do I sign up for Public Health events?__ <br>
+Public Health events are reserved for members who have completed a semester’s PH training. Sign-up sheets are posted in Slack whenever an event is announced. Be sure to check Slack regularly and follow the sign-up instructions at the top of the sheet.
+
+<br>
+__How do I become a PHO (Public Health Officer)?__ <br>
+PHOs serve as trusted representatives at Public Health events (excluding CPR). To become a PHO, maintain good standing in BMRC and PH Instruction, and complete the application form sent out via Slack at the end of each semester. For details, refer to the *Roles and Responsibilities* document.
+
+<br>
+__How do I join the board?__ <br>
+Board applications open toward the end of every fall semester and include role descriptions and expectations. Selected applicants begin as “incoming board members” in the spring semester and will be mentored by current board members.
+
+<br>
+__Who do I contact about reimbursements?__ <br>
+Please fill out the [reimbursement form](https://forms.gle/zLo5rPtPqHJy61DV7)
+
+<br>
+__What is Rock Med?__ <br>
+Rock Medicine (Rock Med) is a volunteer EMS program that provides medical support at concerts and music festivals. Learn more on the [Rock Med page](rockmed.html).

@@ -1,0 +1,6 @@
+- button: bCourses
+  link: https://bcourses.berkeley.edu/courses/1553472
+  color: "#003262"
+- button: Slack
+  link: https://berkeley-mrc.slack.com
+  color: "#4A154B"

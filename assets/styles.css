@@ -1,0 +1,80 @@
+.label {
+    margin-right: 5px;
+    border-radius: 6px;
+    padding: 4px 6px 4px 7px;
+    width: 101px;
+    color: white;
+    font-size: 0.9em;
+    display: inline-block; 
+}
+
+.label-Lecture-A  { background-color: #c3c3c3; }
+.label-Lecture-B  { background-color: #c3c3c3; }
+.label-Reflection { background-color: #003262; }
+.label-Assignment { background-color: #4b86bf; }
+.label-Quiz       { background-color: #fdb515; }
+.label-Exercise   { background-color: #ff6f36; }
+
+
+th {
+    width: 9%;
+}
+
+td:first-of-type {
+    width: 55%;
+}
+
+td:last-of-type {
+    width: 20%;
+}
+
+table {
+    border: 2px solid;
+}
+
+button > a {
+    color: white;
+    text-decoration: none;
+}
+
+button {
+    border: none;
+}
+
+.border {
+  color:#069;
+  font-weight: bold;
+}
+
+/* Base calendar style */
+.calendar-embed {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
+
+/* Default aspect ratio */
+.calendar-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Large version for event signup page */
+.calendar-embed.large {
+  aspect-ratio: 16 / 9; 
+  max-width: 1200px;    
+  height: 900px;        
+}
+
+/* Mobile tweaks */
+@media (max-width: 768px) {
+  .calendar-embed.large {
+    height: 600px; 
+  }
+}

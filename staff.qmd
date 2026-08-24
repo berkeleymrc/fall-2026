@@ -11,28 +11,14 @@ Office hours are available at request.
 ::: {.grid}
 
 ::: {.g-col-6}
-<img src="assets/deren.png" alt="No File" width="100px" style="float: left; margin-right: 10px;" />
-**Director of Training:** <a href='' target='_blank'>Deren Bog</a><br>
+<img src="assets/eva.png" alt="No File" width="100px" style="float: left; margin-right: 10px;" />
+**Director of Training:** <a href='' target='_blank'>Eva Reineck</a><br>
 `training@berkeleymrc.org`<br>
 :::
 
 ::: {.g-col-6}
-<img src="assets/evan.png" alt="No File" width="100px" style="float: left; margin-right: 10px;" />
-**Director of Training:** <a href='' target='_blank'>Evan Passalacqua</a><br>
-`training@berkeleymrc.org`<br>
-:::
-
-:::
-
-::: {.grid style="margin-top:1.5rem;"}
-
-::: {.g-col-6}
-**Director of Training:**<br>
-`training@berkeleymrc.org`<br>
-:::
-
-::: {.g-col-6}
-**Director of Training:**<br>
+<img src="assets/fontanna.png" alt="No File" width="100px" style="float: left; margin-right: 10px;" />
+**Director of Training:** <a href='' target='_blank'>Fontanna Zhi</a><br>
 `training@berkeleymrc.org`<br>
 :::
 
@@ -44,82 +30,42 @@ Office hours are available at request.
 ::: {.grid}
 
 ::: {.g-col-6}
-**Director:** <a>Ashley Huang</a><br>
+**Director:** <a>Vincent Kreft</a><br>
 `director@berkeleymrc.org`<br>
 :::
 
 ::: {.g-col-6}
-**Director:**<br>
-`director@berkeleymrc.org`<br>
-:::
-
-::: {.g-col-6}
-**Directors of Medical Operations:** <a href='' target='_blank'>Charisse Chih</a> & <a href='' target='_blank'>Priyanka Kalidindi</a><br>
+**Directors of Medical Operations:** <a href='' target='_blank'>Marisa Carrillo</a> & <a href='' target='_blank'>Yuxin Yang</a><br>
 `medicaloperations@berkeleymrc.org`<br>
 :::
 
 ::: {.g-col-6}
-**Directors of Medical Operations:**<br>
-`medicaloperations@berkeleymrc.org`<br>
-:::
-
-::: {.g-col-6}
-**Directors of Public Health:** <a href='' target='_blank'>Vincent Kreft</a> & <a href='' target='_blank'>Kedhar Bartlett</a><br>
+**Directors of Public Health:** <a href='' target='_blank'>David Pilling</a> & <a href='' target='_blank'>Jeanna Smirnoff</a><br>
 `publichealth@berkeleymrc.org`<br>
 :::
 
 ::: {.g-col-6}
-**Directors of Public Health:**<br>
-`publichealth@berkeleymrc.org`<br>
-:::
-
-::: {.g-col-6}
-**Directors of Disaster Preparedness:** <a href='' target='_blank'>Rebecca Wei</a> & <a href='' target='_blank'>Kevin Rao</a><br>
+**Directors of Disaster Preparedness:** <a href='' target='_blank'>Brea Breamer</a> & <a href='' target='_blank'>Mariezl Portock</a><br>
 `disasterpreparedness@berkeleymrc.org`<br>
 :::
 
 ::: {.g-col-6}
-**Directors of Disaster Preparedness:**<br>
-`disasterpreparedness@berkeleymrc.org`<br>
-:::
-
-::: {.g-col-6}
-**Director of Administration:** <a href='' target='_blank'>Sophia Levin</a><br>
+**Director of Administration:** <a href='' target='_blank'>Saanvi Swain</a><br>
 `administration@berkeleymrc.org`<br>
 :::
 
 ::: {.g-col-6}
-**Director of Administration:**<br>
-`administration@berkeleymrc.org`<br>
-:::
-
-::: {.g-col-6}
-**Treasurer:** <a href='' target='_blank'>Yuxin Yang</a><br>
+**Treasurer:** <a href='' target='_blank'>Carina Zhou</a><br>
 `treasurer@berkeleymrc.org`<br>
 :::
 
 ::: {.g-col-6}
-**Treasurer:**<br>
-`treasurer@berkeleymrc.org`<br>
-:::
-
-::: {.g-col-6}
-**Public Information Officer:** <a href='' target='_blank'>Fontanna Zhi</a><br>
+**Public Information Officer:** <a href='' target='_blank'>Jasreet Sahota</a><br>
 `pio@berkeleymrc.org`<br>
 :::
 
 ::: {.g-col-6}
-**Public Information Officer:**<br>
-`pio@berkeleymrc.org`<br>
-:::
-
-::: {.g-col-6}
-**Logistics Officer:** <a href='' target='_blank'>Matt Aitken</a><br>
-`logistics@berkeleymrc.org`<br>
-:::
-
-::: {.g-col-6}
-**Logistics Officer:**<br>
+**Logistics Officer:** <a href='' target='_blank'>Ivan Zhang</a><br>
 `logistics@berkeleymrc.org`<br>
 :::
 

@@ -27,14 +27,12 @@ Office hours are available at request.
 ::: {.grid style="margin-top:1.5rem;"}
 
 ::: {.g-col-6}
-<img src="assets/eva.png" alt="No File" width="100px" style="float: left; margin-right: 10px;" />
-**Intern Director of Training:** <a href='' target='_blank'>Eva Reineck</a><br>
+**Director of Training:**<br>
 `training@berkeleymrc.org`<br>
 :::
 
 ::: {.g-col-6}
-<img src="assets/fontanna.png" alt="No File" width="100px" style="float: left; margin-right: 10px;" />
-**Intern Director of Training:** <a href='' target='_blank'>Fontanna Zhi</a><br>
+**Director of Training:**<br>
 `training@berkeleymrc.org`<br>
 :::
 
@@ -51,7 +49,7 @@ Office hours are available at request.
 :::
 
 ::: {.g-col-6}
-**Intern Director:** <a>Vincent Kreft</a><br>
+**Director:**<br>
 `director@berkeleymrc.org`<br>
 :::
 
@@ -61,7 +59,7 @@ Office hours are available at request.
 :::
 
 ::: {.g-col-6}
-**Intern Directors of Medical Operations:** <a href='' target='_blank'>Marisa Carrillo</a> & <a href='' target='_blank'>Yuxin Yang</a><br>
+**Directors of Medical Operations:**<br>
 `medicaloperations@berkeleymrc.org`<br>
 :::
 
@@ -71,7 +69,7 @@ Office hours are available at request.
 :::
 
 ::: {.g-col-6}
-**Intern Directors of Public Health:** <a href='' target='_blank'>David Pilling</a> & <a href='' target='_blank'>Jeanna Smirnoff</a><br>
+**Directors of Public Health:**<br>
 `publichealth@berkeleymrc.org`<br>
 :::
 
@@ -81,7 +79,7 @@ Office hours are available at request.
 :::
 
 ::: {.g-col-6}
-**Intern Directors of Disaster Preparedness:** <a href='' target='_blank'>Brea Breamer</a> & <a href='' target='_blank'>Mariezl Portock</a><br>
+**Directors of Disaster Preparedness:**<br>
 `disasterpreparedness@berkeleymrc.org`<br>
 :::
 
@@ -91,7 +89,7 @@ Office hours are available at request.
 :::
 
 ::: {.g-col-6}
-**Intern Director of Administration:** <a href='' target='_blank'>Saanvi Swain</a><br>
+**Director of Administration:**<br>
 `administration@berkeleymrc.org`<br>
 :::
 
@@ -101,7 +99,7 @@ Office hours are available at request.
 :::
 
 ::: {.g-col-6}
-**Intern Treasurer:** <a href='' target='_blank'>Carina Zhou</a><br>
+**Treasurer:**<br>
 `treasurer@berkeleymrc.org`<br>
 :::
 
@@ -111,7 +109,7 @@ Office hours are available at request.
 :::
 
 ::: {.g-col-6}
-**Intern Public Information Officer:** <a href='' target='_blank'>Jasreet Sahota</a><br>
+**Public Information Officer:**<br>
 `pio@berkeleymrc.org`<br>
 :::
 
@@ -121,7 +119,7 @@ Office hours are available at request.
 :::
 
 ::: {.g-col-6}
-**Intern Logistics Officer:** <a href='' target='_blank'>Ivan Zhang</a><br>
+**Logistics Officer:**<br>
 `logistics@berkeleymrc.org`<br>
 :::
 

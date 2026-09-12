@@ -6,7 +6,7 @@
           name: "New Member Academy"
           auxil:
             id: "Slides"
-            href: "files/fa26_nma_slides.pdf"
+            href: "files/f26_nma_slides.pdf"
     - date: "Sept 12"
       items:
         - type: "Quiz"

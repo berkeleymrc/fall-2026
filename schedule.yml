@@ -21,10 +21,10 @@
           name: "General Training (Mon & Tues)"
           auxil:
             id: "Slides"
-            # href: "files/cardiac_mon.pdf"
+            href: "files/week 1 training slides.pdf"
           auxil2: 
             id: "Scenarios"
-            # href: "files/cardiac_mon_scenarios.pdf"
+            href: "files/week 1 scenarios.pdf"
     - date: "Sept 22"
       items:
         - type: "Reflection"

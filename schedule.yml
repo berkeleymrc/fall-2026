@@ -44,20 +44,20 @@
           name: "Cardiac Emergencies (Mon)"
           auxil:
             id: "Slides"
-            # href: "files/cardiac_mon.pdf"
+            href: "files/cardiac_slides.pdf"
           auxil2: 
             id: "Scenarios"
-            # href: "files/cardiac_mon_scenarios.pdf"
+            href: "files/cardiac_scenarios.pdf"
     - date: "Sept 15"
       items:
         - type: "Lecture B"
           name: "Cardiac Emergencies (Tues)"
           auxil:
             id: "Slides"
-            #href: "files/cardiac_tues.pdf"
+            href: "files/cardiac_slides.pdf"
           auxil2: 
             id: "Scenarios"
-            # href: "files/cardiac_tues_scenarios.pdf"
+            href: "files/cardiac_scenarios.pdf"
     - date: "Sept 22"
       items:
         - type: "Quiz"

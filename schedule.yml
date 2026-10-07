@@ -94,20 +94,20 @@
           name: "Respiratory Emergencies (Mon)"
           auxil:
             id: "Slides"
-            # href: "files/respiratory_mon.pdf"
+            href: "files/f26_respiratory_slides_mon.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/respiratory_scenarios_mon.pdf"
+            href: "files/f26_respiratory_scenarios_mon.pdf"
     - date: "Oct 6"
       items:
         - type: "Lecture B"
           name: "Respiratory Emergencies (Tues)"
           auxil:
             id: "Slides"
-            # href: "files/respiratory_tues.pdf"
+            href: "files/f26_respiratory_slides_tues.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/respiratory_scenarios_tues.pdf"
+            href: "files/f26_respiratory_scenarios_tues.pdf"
     - date: "Oct 12"
       items:
         - type: "Reflection"

@@ -112,10 +112,10 @@
       items:
         - type: "Reflection"
           name: "Week 4 Reflection"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040364?module_item_id=17649194"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040364?module_item_id=17649194"
         - type: "Quiz"
           name: "Week 4 Quiz"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1558374/quizzes/2551952"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1558374/quizzes/2551952"
 
 - week: 4
   days:
@@ -125,28 +125,28 @@
           name: "Trauma Care (Mon)"
           auxil:
             id: "Slides"
-            # href: "files/trauma_mon.pdf"
+            href: "files/trauma_mon_slides.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/trauma_scenarios_mon.pdf"
+            href: "files/trauma_mon_scenarios.pdf"
     - date: "Oct 13"
       items:
         - type: "Lecture B"
           name: "Trauma Care (Tues)"
           auxil:
             id: "Slides"
-            # href: "files/trauma_tues.pdf"
+            href: "files/trauma_tues_slides.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/trauma_scenarios_tues.pdf"
+            href: "files/trauma_tues_scenarios.pdf"
     - date: "Oct 19"
       items:
         - type: "Reflection"
-          name: "Week 4 Reflection"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040365"
+          name: "Week 5 Reflection"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9129390"
         - type: "Quiz"
-          name: "Week 4 Quiz"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531191" 
+          name: "Week 5 Quiz"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1558374/quizzes/2551953"
 
 - week: 5
   days:
@@ -173,10 +173,10 @@
     - date: "Nov 2"
       items:
         - type: "Reflection"
-          name: "Week 5 Reflection"
+          name: "Week 6 Reflection"
           # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040366"
         - type: "Quiz"
-          name: "Week 5 Quiz"
+          name: "Week 6 Quiz"
           # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531190"
 
 - week: 6
@@ -192,7 +192,7 @@
     - date: "Nov 11"
       items:
         - type: "Reflection"
-          name: "Week 6 Reflection"
+          name: "Week 7 Reflection"
           # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040367"
         - type: "Assignment"
           name: "Mid-Semester Feedback Form"

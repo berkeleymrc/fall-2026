@@ -156,28 +156,28 @@
           name: "Environmental Emergencies (Mon)"
           auxil:
             id: "Slides"
-            # href: "files/environmental_mon.pdf"
+            href: "files/environmental_slides_mon.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/environmental_scenarios_mon.pdf"
+            href: "files/environmental_scenarios_mon.pdf"
     - date: "Oct 27"
       items:
         - type: "Lecture B"
           name: "Environmental Emergencies (Tues)"
           auxil:
             id: "Slides"
-            # href: "files/environmental_tues.pdf"
+            href: "files/environmental_slides_tues.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/environmental_scenarios_tues.pdf"
+            href: "files/environmental_scenarios_tues.pdf"
     - date: "Nov 2"
       items:
         - type: "Reflection"
           name: "Week 6 Reflection"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040366"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1558374/assignments/9129391"
         - type: "Quiz"
           name: "Week 6 Quiz"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531190"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1558374/quizzes/2551951"
 
 - week: 6
   days:
@@ -193,10 +193,10 @@
       items:
         - type: "Reflection"
           name: "Week 7 Reflection"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040367"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1558374/assignments/9129392"
         - type: "Assignment"
           name: "Mid-Semester Feedback Form"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040357"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1558374/assignments/9129383"
 
 - week: 8
   days:

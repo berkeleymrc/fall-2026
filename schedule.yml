@@ -198,7 +198,7 @@
           name: "Mid-Semester Feedback Form"
           canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1558374/assignments/9129383"
 
-- week: 8
+- week: 7
   days:
     - date: "Nov 9"
       items:
@@ -229,7 +229,7 @@
           name: "Week 8 Quiz"
           # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531189"          
 
-- week: 9
+- week: 8
   days:
     - date: "Nov 16"
       items:

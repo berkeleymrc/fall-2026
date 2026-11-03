@@ -206,28 +206,28 @@
           name: "Psychological and Behavioral Emergencies (Mon)"
           auxil:
             id: "Slides"
-            # href: "files/psych_mon.pdf"
+            href: "files/psych_slides_mon.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/psych_scenarios_mon.pdf"
+            href: "files/psych_scenarios_mon.pdf"
     - date: "Nov 10"
       items:
         - type: "Lecture B"
           name: "Psychological and Behavioral Emergencies (Tues)"
           auxil:
             id: "Slides"
-            # href: "files/psych_tues.pdf"
+            href: "files/psych_slides_tues.pdf"
           auxil2:
             id: "Scenarios"
-            # href: "files/psych_scenarios_tues.pdf"
+            href: "files/psych_scenarios_tues.pdf"
     - date: "Nov 17"
       items:
         - type: "Reflection"
           name: "Week 8 Reflection"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040368"
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/assignments/9040368"
         - type: "Quiz"
           name: "Week 8 Quiz"
-          # canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531189"          
+          canvas_quiz_url: "https://bcourses.berkeley.edu/courses/1553472/quizzes/2531189"          
 
 - week: 8
   days:
